@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Learning Path | CareerCopilot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="form-container">
+    <h2>Find Skills for Your Dream Role</h2>
+    <form action="/learn-recommend" method="POST">
+      <input type="text" name="skills" placeholder="Your current skills (comma-separated)" required>
+      <input type="text" name="role" placeholder="Target profession (e.g. Data Scientist)" required>
+      <button type="submit">Get Learning Path</button>
+    </form>
+    <p class="switch"><a href="/">← Back to Home</a></p>
+  </div>
+</body>
+</html>

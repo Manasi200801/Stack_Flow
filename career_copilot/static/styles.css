@@ -1,0 +1,121 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f7fc;
+    color: #333;
+    scroll-behavior: smooth;
+  }
+  
+  .welcome {
+    height: 100vh;
+    background: linear-gradient(120deg, #007BFF, #00c6ff);
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 20px;
+  }
+  
+  .welcome h1 {
+    font-size: 3rem;
+    margin-bottom: 10px;
+  }
+  
+  .welcome p {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+  }
+  
+  .welcome button {
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    background: white;
+    color: #007BFF;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .login-section, .form-container {
+    padding: 60px 20px;
+    text-align: center;
+    background: white;
+    max-width: 500px;
+    margin: 40px auto;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  }
+  
+  input[type="text"], input[type="password"] {
+    width: 90%;
+    padding: 12px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 12px 20px;
+    font-size: 16px;
+    background: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background: #0056b3;
+  }
+  
+  .auth-buttons button {
+    margin: 10px;
+  }
+  
+  .error {
+    color: red;
+    font-weight: bold;
+  }
+  
+  .info {
+    color: green;
+    font-weight: bold;
+  }
+  
+  .switch {
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  
+  .results-container {
+    max-width: 700px;
+    margin: 60px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 12px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+  }
+  
+  .job-card {
+    background-color: #f0f4ff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+  }
+  
+  .job-card h3 {
+    margin-bottom: 10px;
+  }
+  
+  .highlight {
+    color: #0654a8;
+    font-weight: bold;
+  }
+  
+  .back-actions {
+    margin-top: 30px;
+    text-align: center;
+  }  

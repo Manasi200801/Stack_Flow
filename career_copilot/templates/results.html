@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Top Job Matches | CareerCopilot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="results-container">
+    <h2>Top Jobs for: <span class="highlight">{{ skills }}</span></h2>
+
+    {% for job in jobs %}
+      <div class="job-card">
+        <h3>{{ job.title }} at {{ job.company }}</h3>
+        <p>📍 {{ job.location }}</p>
+        <p>🔗 <a href="{{ job.url }}" target="_blank">View Job</a></p>
+        <p>⭐ Similarity: {{ job.similarity }}</p>
+      </div>
+    {% endfor %}
+
+    <div class="back-actions">
+      <a href="{{ url_for('skill_input') }}">🔁 Try Again</a> |
+      <a href="{{ url_for('logout') }}">🚪 Logout</a>
+    </div>
+  </div>
+</body>
+</html>

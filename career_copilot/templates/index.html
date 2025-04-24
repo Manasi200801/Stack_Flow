@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CareerCopilot – Welcome</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <script src="{{ url_for('static', filename='script.js') }}" defer></script>
+</head>
+<body>
+  <section class="welcome">
+    <h1>CareerCopilot 🚀</h1>
+    <p>Your AI-powered assistant to guide your job journey.</p>
+    <button onclick="scrollToLogin()">Get Started</button>
+  </section>
+
+  <section id="login-section" class="login-section">
+    <h2>Welcome!</h2>
+    <p>Please log in or explore our tools:</p>
+    <div class="auth-buttons">
+      <a href="{{ url_for('login') }}"><button>Login</button></a>
+      <a href="{{ url_for('register') }}"><button>Register</button></a>
+      <a href="{{ url_for('forgot_password') }}"><button>Forgot Password</button></a>
+      <a href="{{ url_for('learn_path') }}"><button>📚 Learning Path</button></a>
+    </div>
+  </section>
+</body>
+</html>

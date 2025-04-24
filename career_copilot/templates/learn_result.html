@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Learning Recommendation | CareerCopilot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="results-container">
+    <h2>🧭 Personalized Learning Path</h2>
+    <p>{% autoescape false %}{{ result }}{% endautoescape %}</p>
+    <div class="back-actions">
+      <a href="{{ url_for('learn_path') }}">🔁 Try Again</a> |
+      <a href="/">🏠 Home</a>
+    </div>
+  </div>
+</body>
+</html>

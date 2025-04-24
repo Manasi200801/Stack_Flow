@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Enter Skills | CareerCopilot</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="form-container">
+    <h2>Enter Your Skills</h2>
+    <form method="POST">
+      <input type="text" name="skills" placeholder="e.g. Cyber security, Python" required>
+      <button type="submit">Find Jobs</button>
+    </form>
+    <p class="switch"><a href="{{ url_for('logout') }}">Logout</a></p>
+  </div>
+</body>
+</html>

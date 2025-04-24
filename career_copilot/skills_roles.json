@@ -1,0 +1,2474 @@
+[
+    {
+      "Role":"Adult Basic Education, Adult Secondary Education, and English as a Second Language Instructors",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Advertising Sales Agents",
+      "Skill":[
+        "Adobe Creative Cloud software",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Canva",
+        "Google Analytics",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Salesforce software"
+      ]
+    },
+    {
+      "Role":"Agricultural Inspectors",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Agricultural Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Aircraft Mechanics and Service Technicians",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Anesthesiologists",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Animal Control Workers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Anthropologists and Archeologists",
+      "Skill":[
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Arbitrators, Mediators, and Conciliators",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Architectural and Civil Drafters",
+      "Skill":[
+        "Adobe Photoshop",
+        "Autodesk AutoCAD",
+        "Autodesk AutoCAD Civil 3D",
+        "Autodesk Revit",
+        "Bentley MicroStation",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Trimble SketchUp Pro"
+      ]
+    },
+    {
+      "Role":"Architecture Teachers, Postsecondary",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Autodesk Revit"
+      ]
+    },
+    {
+      "Role":"Archivists",
+      "Skill":[
+        "Adobe Photoshop",
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Art Directors",
+      "Skill":[
+        "Adobe After Effects",
+        "Adobe Creative Cloud software",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Figma",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Art Therapists",
+      "Skill":[
+        "Zoom"
+      ]
+    },
+    {
+      "Role":"Art, Drama, and Music Teachers, Postsecondary",
+      "Skill":[
+        "Adobe Photoshop"
+      ]
+    },
+    {
+      "Role":"Astronomers",
+      "Skill":[
+        "Python"
+      ]
+    },
+    {
+      "Role":"Athletes and Sports Competitors",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Atmospheric and Space Scientists",
+      "Skill":[
+        "Microsoft Office software",
+        "Python"
+      ]
+    },
+    {
+      "Role":"Audio and Video Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Teams",
+        "Zoom"
+      ]
+    },
+    {
+      "Role":"Audiologists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Automotive Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "C++",
+        "Dassault Systemes SolidWorks",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Perl",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Avionics Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Bill and Account Collectors",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Billing and Posting Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Biochemists and Biophysicists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Bioinformatics Scientists",
+      "Skill":[
+        "Amazon Web Services AWS software",
+        "Bash",
+        "C",
+        "C++",
+        "GitHub",
+        "Linux",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Oracle Java",
+        "Perl",
+        "Python",
+        "R",
+        "Shell script",
+        "Structured query language SQL",
+        "UNIX"
+      ]
+    },
+    {
+      "Role":"Biological Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Biologists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Python",
+        "R"
+      ]
+    },
+    {
+      "Role":"Bookkeeping, Accounting, and Auditing Clerks",
+      "Skill":[
+        "Intuit QuickBooks",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Broadcast Announcers and Radio Disc Jockeys",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Broadcast Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Brokerage Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Calibration Technologists and Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Camera Operators, Television, Video, and Film",
+      "Skill":[
+        "Adobe After Effects",
+        "Adobe Creative Cloud software",
+        "Adobe Illustrator",
+        "Adobe Photoshop"
+      ]
+    },
+    {
+      "Role":"Cardiologists",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Career\/Technical Education Teachers, Postsecondary",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Cargo and Freight Agents",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Chefs and Head Cooks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Chemical Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Chemistry Teachers, Postsecondary",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Chemists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Child, Family, and School Social Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Civil Engineering Technologists and Technicians",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Autodesk AutoCAD Civil 3D",
+        "Bentley MicroStation",
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Climate Change Policy Analysts",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Clinical Nurse Specialists",
+      "Skill":[
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "Role":"Clinical and Counseling Psychologists",
+      "Skill":[
+        "Microsoft Teams",
+        "Zoom"
+      ]
+    },
+    {
+      "Role":"Commercial and Industrial Designers",
+      "Skill":[
+        "Adobe Creative Cloud software",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Autodesk AutoCAD",
+        "Dassault Systemes SolidWorks",
+        "Figma",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Community Health Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Computer Hardware Engineers",
+      "Skill":[
+        "C",
+        "C++",
+        "Linux",
+        "Perl",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Computer Science Teachers, Postsecondary",
+      "Skill":[
+        "C++",
+        "Linux",
+        "Microsoft Office software",
+        "Oracle Java",
+        "Python"
+      ]
+    },
+    {
+      "Role":"Computer, Automated Teller, and Office Machine Repairers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Concierges",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Conservation Scientists",
+      "Skill":[
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Construction and Building Inspectors",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Control and Valve Installers and Repairers, Except Mechanical Door",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Correspondence Clerks",
+      "Skill":[
+        "Epic Systems",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Costume Attendants",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Court, Municipal, and License Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Credit Authorizers, Checkers, and Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Curators",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Customer Service Representatives",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Data Entry Keyers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Dental Assistants",
+      "Skill":[
+        "Henry Schein Dentrix"
+      ]
+    },
+    {
+      "Role":"Desktop Publishers",
+      "Skill":[
+        "Adobe Acrobat",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Detectives and Criminal Investigators",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Dietetic Technicians",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Dietitians and Nutritionists",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Directors, Religious Activities and Education",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Dispatchers, Except Police, Fire, and Ambulance",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Economists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Python",
+        "R",
+        "SAS",
+        "Structured query language SQL",
+        "Tableau"
+      ]
+    },
+    {
+      "Role":"Editors",
+      "Skill":[
+        "Adobe Photoshop",
+        "Hypertext markup language HTML",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Educational, Guidance, and Career Counselors and Advisors",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Electrical Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Autodesk Revit",
+        "C++",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Electrical and Electronic Engineering Technologists and Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Electrical and Electronics Drafters",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Autodesk Revit",
+        "Bentley MicroStation",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Electrical and Electronics Installers and Repairers, Transportation Equipment",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Electrical and Electronics Repairers, Commercial and Industrial Equipment",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Electrical and Electronics Repairers, Powerhouse, Substation, and Relay",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Electronics Engineers, Except Computer",
+      "Skill":[
+        "C",
+        "C++",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Eligibility Interviewers, Government Programs",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Emergency Medicine Physicians",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Energy Auditors",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Python",
+        "R",
+        "Structured query language SQL"
+      ]
+    },
+    {
+      "Role":"Energy Engineers, Except Wind and Solar",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Environmental Engineering Technologists and Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Environmental Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Environmental Restoration Planners",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Environmental Science and Protection Technicians, Including Health",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Environmental Scientists and Specialists, Including Health",
+      "Skill":[
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Epidemiologists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "R",
+        "SAS"
+      ]
+    },
+    {
+      "Role":"Executive Secretaries and Executive Administrative Assistants",
+      "Skill":[
+        "Google Workspace software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Exercise Physiologists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Family Medicine Physicians",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Farm and Home Management Educators",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Fashion Designers",
+      "Skill":[
+        "Adobe Creative Cloud software",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"File Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Film and Video Editors",
+      "Skill":[
+        "Adobe After Effects",
+        "Adobe Creative Cloud software",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Microsoft Office software",
+        "TikTok"
+      ]
+    },
+    {
+      "Role":"Fine Artists, Including Painters, Sculptors, and Illustrators",
+      "Skill":[
+        "Adobe Illustrator",
+        "Adobe Photoshop"
+      ]
+    },
+    {
+      "Role":"Fire Inspectors and Investigators",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Fire-Prevention and Protection Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Autodesk Revit",
+        "Bentley MicroStation",
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Construction Trades and Extraction Workers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Correctional Officers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Entertainment and Recreation Workers, Except Gambling Services",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Firefighting and Prevention Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Gambling Services Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Housekeeping and Janitorial Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Mechanics, Installers, and Repairers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Non-Retail Sales Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Salesforce software"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Office and Administrative Support Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Police and Detectives",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Production and Operating Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Retail Sales Workers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"First-Line Supervisors of Security Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Fishing and Hunting Workers",
+      "Skill":[
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "Role":"Food Science Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Food Scientists and Technologists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Forensic Science Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Forest and Conservation Workers",
+      "Skill":[
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "Role":"Foresters",
+      "Skill":[
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Freight Forwarders",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Fuel Cell Engineers",
+      "Skill":[
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Funeral Attendants",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Gambling Change Persons and Booth Cashiers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"General Internal Medicine Physicians",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Genetic Counselors",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Geneticists",
+      "Skill":[
+        "Python",
+        "R"
+      ]
+    },
+    {
+      "Role":"Geographers",
+      "Skill":[
+        "ESRI ArcGIS software",
+        "Python",
+        "Structured query language SQL"
+      ]
+    },
+    {
+      "Role":"Geological Technicians, Except Hydrologic Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Geoscientists, Except Hydrologists and Geographers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "ESRI ArcGIS software",
+        "Git",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Python"
+      ]
+    },
+    {
+      "Role":"Graphic Designers",
+      "Skill":[
+        "Adobe After Effects",
+        "Adobe Creative Cloud software",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Cascading style sheets CSS",
+        "Figma",
+        "Hypertext markup language HTML",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Hazardous Materials Removal Workers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Health Education Specialists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Health Information Technologists and Medical Registrars",
+      "Skill":[
+        "Epic Systems",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Healthcare Social Workers",
+      "Skill":[
+        "Microsoft Teams",
+        "Zoom"
+      ]
+    },
+    {
+      "Role":"Hearing Aid Specialists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Histology Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Historians",
+      "Skill":[
+        "Adobe Acrobat",
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Hospitalists",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Hotel, Motel, and Resort Desk Clerks",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Human Factors Engineers and Ergonomists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Human Resources Assistants, Except Payroll and Timekeeping",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Hydrologists",
+      "Skill":[
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Python",
+        "R"
+      ]
+    },
+    {
+      "Role":"Industrial Ecologists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Industrial Engineering Technologists and Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Industrial Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "SAP software",
+        "Structured query language SQL"
+      ]
+    },
+    {
+      "Role":"Industrial Machinery Mechanics",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Instructional Coordinators",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Insurance Claims and Policy Processing Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Insurance Sales Agents",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Intelligence Analysts",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Interior Designers",
+      "Skill":[
+        "Adobe Creative Cloud software",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Autodesk AutoCAD",
+        "Autodesk Revit",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Trimble SketchUp Pro"
+      ]
+    },
+    {
+      "Role":"Interpreters and Translators",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Interviewers, Except Eligibility and Loan",
+      "Skill":[
+        "Zoom"
+      ]
+    },
+    {
+      "Role":"Judges, Magistrate Judges, and Magistrates",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Judicial Law Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Lawyers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Legal Secretaries and Administrative Assistants",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Librarians and Media Collections Specialists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Library Assistants, Clerical",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Library Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Lighting Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Loan Interviewers and Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Mail Clerks and Mail Machine Operators, Except Postal Service",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Maintenance and Repair Workers, General",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Manufacturing Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Dassault Systemes SolidWorks",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Marine Engineers and Naval Architects",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Marriage and Family Therapists",
+      "Skill":[
+        "Microsoft Teams",
+        "Zoom"
+      ]
+    },
+    {
+      "Role":"Materials Engineers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Mechanical Drafters",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Autodesk Revit",
+        "Bentley MicroStation",
+        "Dassault Systemes SolidWorks",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Mechanical Engineering Technologists and Technicians",
+      "Skill":[
+        "Dassault Systemes SolidWorks",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Mechanical Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Autodesk Revit",
+        "Dassault Systemes SolidWorks",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Python"
+      ]
+    },
+    {
+      "Role":"Mechatronics Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "C",
+        "C++",
+        "Dassault Systemes SolidWorks",
+        "Linux",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Oracle Java",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Media Programming Directors",
+      "Skill":[
+        "Adobe Creative Cloud software",
+        "Adobe Photoshop",
+        "Google Analytics",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Medical Assistants",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Medical Dosimetrists",
+      "Skill":[
+        "Eclipse IDE"
+      ]
+    },
+    {
+      "Role":"Medical Equipment Repairers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Medical Records Specialists",
+      "Skill":[
+        "Epic Systems",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Medical Secretaries and Administrative Assistants",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Medical and Clinical Laboratory Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Mental Health and Substance Abuse Social Workers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Merchandise Displayers and Window Trimmers",
+      "Skill":[
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "Role":"Meter Readers, Utilities",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Microbiologists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Midwives",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Mining and Geological Engineers, Including Mining Safety Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Autodesk AutoCAD Civil 3D",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Mobile Heavy Equipment Mechanics, Except Engines",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Molecular and Cellular Biologists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Morticians, Undertakers, and Funeral Arrangers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Motorboat Mechanics and Service Technicians",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Neurologists",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"New Accounts Clerks",
+      "Skill":[
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "Role":"Non-Destructive Testing Specialists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Nuclear Engineers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Python"
+      ]
+    },
+    {
+      "Role":"Nurse Anesthetists",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Nursing Instructors and Teachers, Postsecondary",
+      "Skill":[
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Obstetricians and Gynecologists",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Occupational Health and Safety Specialists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Occupational Health and Safety Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Office Clerks, General",
+      "Skill":[
+        "Intuit QuickBooks",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Order Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Orthopedic Surgeons, Except Pediatric",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Paralegals and Legal Assistants",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Park Naturalists",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Parking Enforcement Workers",
+      "Skill":[
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "Role":"Parts Salespersons",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Patient Representatives",
+      "Skill":[
+        "Epic Systems",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Payroll and Timekeeping Clerks",
+      "Skill":[
+        "Kronos Workforce Timekeeper",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "Workday software"
+      ]
+    },
+    {
+      "Role":"Pediatric Surgeons",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Pediatricians, General",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Pesticide Handlers, Sprayers, and Applicators, Vegetation",
+      "Skill":[
+        "Google Android"
+      ]
+    },
+    {
+      "Role":"Petroleum Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Pharmacy Aides",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Phlebotomists",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Photographers",
+      "Skill":[
+        "Adobe Photoshop"
+      ]
+    },
+    {
+      "Role":"Photonics Engineers",
+      "Skill":[
+        "C",
+        "C++",
+        "Dassault Systemes SolidWorks",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Photonics Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Physicists",
+      "Skill":[
+        "Eclipse IDE",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Political Science Teachers, Postsecondary",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Political Scientists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Precision Agriculture Technicians",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Windows"
+      ]
+    },
+    {
+      "Role":"Private Detectives and Investigators",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Probation Officers and Correctional Treatment Specialists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Procurement Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "SAP software"
+      ]
+    },
+    {
+      "Role":"Producers and Directors",
+      "Skill":[
+        "Adobe After Effects",
+        "Adobe Creative Cloud software",
+        "Adobe Photoshop",
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Production, Planning, and Expediting Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Proofreaders and Copy Markers",
+      "Skill":[
+        "HubSpot software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "WordPress"
+      ]
+    },
+    {
+      "Role":"Public Relations Specialists",
+      "Skill":[
+        "Adobe Creative Cloud software",
+        "Adobe Photoshop",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Public Safety Telecommunicators",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Quality Control Analysts",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word",
+        "SAP software"
+      ]
+    },
+    {
+      "Role":"Radiation Therapists",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Radio Frequency Identification Device Specialists",
+      "Skill":[
+        "C",
+        "C++",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Radio, Cellular, and Tower Equipment Installers and Repairers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Radiologists",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Real Estate Brokers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Yardi software"
+      ]
+    },
+    {
+      "Role":"Real Estate Sales Agents",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word",
+        "Yardi software"
+      ]
+    },
+    {
+      "Role":"Receptionists and Information Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Recreation Workers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Rehabilitation Counselors",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Remote Sensing Scientists and Technologists",
+      "Skill":[
+        "C++",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Remote Sensing Technicians",
+      "Skill":[
+        "Bentley MicroStation",
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word",
+        "Python"
+      ]
+    },
+    {
+      "Role":"Reservation and Transportation Ticket Agents and Travel Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Residential Advisors",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Robotics Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "C",
+        "C++",
+        "Dassault Systemes SolidWorks",
+        "Git",
+        "Linux",
+        "Microsoft Office software",
+        "Python",
+        "Structured query language SQL",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Robotics Technicians",
+      "Skill":[
+        "C++",
+        "Linux",
+        "Microsoft Excel",
+        "Python"
+      ]
+    },
+    {
+      "Role":"Roustabouts, Oil and Gas",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Sales Engineers",
+      "Skill":[
+        "Amazon Web Services AWS software",
+        "Linux",
+        "Microsoft Azure software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Python",
+        "Salesforce software"
+      ]
+    },
+    {
+      "Role":"Sales Representatives of Services, Except Advertising, Insurance, Financial Services, and Travel",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Salesforce software"
+      ]
+    },
+    {
+      "Role":"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Salesforce software"
+      ]
+    },
+    {
+      "Role":"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Salesforce software"
+      ]
+    },
+    {
+      "Role":"School Psychologists",
+      "Skill":[
+        "Zoom"
+      ]
+    },
+    {
+      "Role":"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Securities, Commodities, and Financial Services Sales Agents",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Security and Fire Alarm Systems Installers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Set and Exhibit Designers",
+      "Skill":[
+        "Adobe Creative Cloud software",
+        "Adobe Illustrator",
+        "Adobe Photoshop",
+        "Autodesk AutoCAD",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Trimble SketchUp Pro"
+      ]
+    },
+    {
+      "Role":"Shipping, Receiving, and Inventory Clerks",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Social and Human Service Assistants",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Soil and Plant Scientists",
+      "Skill":[
+        "ESRI ArcGIS software",
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "Role":"Solar Energy Systems Engineers",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Google Workspace software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Python",
+        "Salesforce software"
+      ]
+    },
+    {
+      "Role":"Solar Sales Representatives and Assessors",
+      "Skill":[
+        "Salesforce software"
+      ]
+    },
+    {
+      "Role":"Special Education Teachers, Middle School",
+      "Skill":[
+        "Microsoft Excel"
+      ]
+    },
+    {
+      "Role":"Special Education Teachers, Secondary School",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Special Effects Artists and Animators",
+      "Skill":[
+        "Adobe After Effects",
+        "Adobe Creative Cloud software",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Figma",
+        "Hypertext markup language HTML",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Sports Medicine Physicians",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Statistical Assistants",
+      "Skill":[
+        "C#",
+        "Oracle Java",
+        "Python",
+        "R",
+        "SAS"
+      ]
+    },
+    {
+      "Role":"Structural Metal Fabricators and Fitters",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Substance Abuse and Behavioral Disorder Counselors",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Surveying and Mapping Technicians",
+      "Skill":[
+        "Autodesk AutoCAD",
+        "Autodesk AutoCAD Civil 3D",
+        "Bentley MicroStation",
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Switchboard Operators, Including Answering Service",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Talent Directors",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Teaching Assistants, Postsecondary",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Technical Writers",
+      "Skill":[
+        "Atlassian JIRA",
+        "Extensible markup language XML",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint",
+        "Microsoft SharePoint",
+        "Microsoft Visio",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Telecommunications Equipment Installers and Repairers, Except Line Installers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Telemarketers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Telephone Operators",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Tellers",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Tire Repairers and Changers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Title Examiners, Abstractors, and Searchers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Transportation Planners",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Travel Agents",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Zoom"
+      ]
+    },
+    {
+      "Role":"Urban and Regional Planners",
+      "Skill":[
+        "Adobe Creative Cloud software",
+        "Autodesk AutoCAD",
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Urologists",
+      "Skill":[
+        "Epic Systems"
+      ]
+    },
+    {
+      "Role":"Validation Engineers",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "Python"
+      ]
+    },
+    {
+      "Role":"Water\/Wastewater Engineers",
+      "Skill":[
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint"
+      ]
+    },
+    {
+      "Role":"Weatherization Installers and Technicians",
+      "Skill":[
+        "Microsoft Office software"
+      ]
+    },
+    {
+      "Role":"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",
+      "Skill":[
+        "Microsoft Outlook"
+      ]
+    },
+    {
+      "Role":"Wind Energy Engineers",
+      "Skill":[
+        "C++",
+        "Microsoft Excel",
+        "Python",
+        "The MathWorks MATLAB"
+      ]
+    },
+    {
+      "Role":"Wind Turbine Service Technicians",
+      "Skill":[
+        "Microsoft Office software",
+        "SAP software"
+      ]
+    },
+    {
+      "Role":"Word Processors and Typists",
+      "Skill":[
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft Outlook",
+        "Microsoft Word"
+      ]
+    },
+    {
+      "Role":"Writers and Authors",
+      "Skill":[
+        "Adobe Photoshop",
+        "Microsoft Excel",
+        "Microsoft Office software",
+        "Microsoft PowerPoint",
+        "TikTok"
+      ]
+    },
+    {
+      "Role":"Zoologists and Wildlife Biologists",
+      "Skill":[
+        "ESRI ArcGIS software",
+        "Microsoft Excel",
+        "Microsoft Office software"
+      ]
+    }
+  ]
