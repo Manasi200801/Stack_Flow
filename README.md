@@ -19,24 +19,24 @@ Built with `Flask`, `sentence-transformers`, and styled with simple HTML/CSS.
 ---
 ## 🏗️ Project Structure
 career_copilot </br>
-├── app.py  </br>                  # Main Flask application
-├── users.json </br>                 # JSON file storing registered users
-├── skills_roles.json </br>           # JSON database of roles and associated skills
-├── linkedin_jobs.xlsx </br>         # Job listing data
+├── app.py                    # Main Flask application </br>
+├── users.json                 # JSON file storing registered users </br>
+├── skills_roles.json            # JSON database of roles and associated skills </br>
+├── linkedin_jobs.xlsx          # Job listing data </br>
 │
-├── templates          </br>       # HTML templates rendered by Flask
-│   ├── index.html       </br>       # Welcome page
-│   ├── login.html        </br>      # Login form
-│   ├── register.html      </br>     # User registration
-│   ├── forgot.html         </br>    # Forgot password form
-│   ├── skills.html          </br>   # Skill input for job recommendation
-│   ├── results.html          </br>  # Top matching jobs display
-│   ├── learn.html             </br> # Skill gap input form
-│   └── learn_result.html       </br># Skill recommendation output
+├── templates                # HTML templates rendered by Flask </br>
+│   ├── index.html             # Welcome page </br>
+│   ├── login.html            # Login form </br>
+│   ├── register.html          # User registration </br>
+│   ├── forgot.html             # Forgot password form </br>
+│   ├── skills.html            # Skill input for job recommendation </br>
+│   ├── results.html            # Top matching jobs display </br>
+│   ├── learn.html              # Skill gap input form </br>
+│   └── learn_result.html       # Skill recommendation output </br>
 │
-├── static          </br>         # Static assets
-│   ├── styles.css     </br>        # CSS styles
-│   └── script.js       </br>        # JavaScript for scroll animation
+├── static                  # Static assets </br>
+│   ├── styles.css            # CSS styles </br>
+│   └── script.js               # JavaScript for scroll animation </br>
 
 
 
